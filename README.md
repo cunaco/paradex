@@ -53,7 +53,7 @@ f NAME 
 .f DATA  
 
 ##### Данные
-  
+
 !FRONTEND  
 ?HUD  
 ?UI
@@ -78,7 +78,7 @@ YES/NO 
 ?EXPERIENCE
 .URL  
 .IRL  
- 
+
 !!C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO BIG GEM)  
 ?MEET
 C: What do you have?
