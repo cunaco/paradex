@@ -115,11 +115,10 @@ f NAME 
 
 !!CELEST1A
 .HIT 
-?FEED
-.FOOD
-.MANA
-.GRACE
-.INFO
+?MEET
+C: What do you have?
+2B: What's the matter? What's the point?
+G: What can you do? 
 ?OPERATION  
 .TOOLS:  
 1 (+) T Y  
@@ -133,10 +132,11 @@ YES/NO 
 .IRL  
 
 !!C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO BIG GEM)  
-?MEET
-C: What do you have?
-2B: What's the matter? What's the point?
-G: What can you do? 
+?FEED
+.FOOD
+.MANA
+.GRACE
+.INFO
 ?APOSTLE  
 .MIND
 .BODY
