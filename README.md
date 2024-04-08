@@ -11,7 +11,7 @@ And there was the light. Wholesome, unreachable in it's power, saint and clear.
 The Tree of the times. A gift of the time: a story.
 Value: What is first? Quest: What's the deal? Quit: Whatever Take: What kind of?  
 
-The Tree of life. The gift of living: a breathe.
+The Tree of life. The gift of living: a breath.
 What brought you to life? Where it belongs to? When does it takes? Why do you propose such a thing?
 
 The Tree of knowledge. The gift of knowledge: freedom.
