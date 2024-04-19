@@ -133,15 +133,31 @@ YES/NO 
 
 !!C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO B GEM)  
 ?FEED
-.FOOD
-.MANA
-.GRACE
 .INFO
+.FOOD
+.GRACE
+.MANA
 ?APOSTLE  
 .MIND
+CAPACITY
+COMPUTING
+DIRECTION
+STATE
 .BODY
+VOLUME
+CONTROL
+SENSE
+LOOK
 .SOUL
-.WILL
+WEIGHT
+IMAGE
+MORAL
+PASSION
+.SPIRIT
+AIM
+WILL
+NAME
+CELL
 ?STIMULUS  
 .COMMUNICATE
 .REACT
@@ -202,3 +218,4 @@ YES/NO 
 ?SERVICE
 
 "Свет светит всем: и злодеям, и жертвам".
+"Интересно, существовал ли когда-либо человек от А до Я, ни разу не умерев?"
