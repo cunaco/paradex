@@ -1,6 +1,6 @@
-2Eden with Celestia in.
+2Eden with CCN4 (WISP-1). 
 
-Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Heaven are ours. There are no one here alive, is it real? So empty and dark, like it was abandoned years ago. "Hey!" - she screamed. "We brought something to feed - from the grounds and the seas for the people of Heaven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
+Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Heaven are ours. There are no one here alive, is it real? So empty and pure, like it was estimated years ago. "Hey!" - she screamed. "We brought something to feed - from the grounds and the seas for the people of Heaven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
 And it came as the bird on the wing. For the moment it was breathtaking.
 
@@ -107,6 +107,7 @@ f NAME 
 !!f ATRIBUTE  
 ?f ELEMENT  
 .f DATA 
+#f DESCRIPTION
 
 Данные
 
@@ -135,86 +136,86 @@ YES/NO 
 
 !!C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO B GEM)  
 ?FEED
-.INFO 
-.FOOD 
-.GRACE 
-.MANA 
-?APOSTLE  
-.MIND 
-CAPACITY 
-COMPUTING 
-DIRECTION 
-STATE
-.BODY 
-VOLUME 
-CONTROL 
-SENSE 
-LOOK
-.SOUL 
-WEIGHT 
-IMAGE 
-MORAL 
-PASSION
-.SPIRIT 
-PICK
-WILL 
-NAME 
-CELL 
-?STIMULUS  
-.COMMUNICATE
-.REACT
-.ENJOY
-.AIM 
-.MANAGE 
-.MASTER 
-.ACT 
-.EVOLVE  
-.REVISE 
-.CARE 
-?PULSE  
-.HATEFUL/BELOVED 
-.MAD/WISE 
-.WILLFUL/POWERFUL 
-.MYSTERIOUS/CLAIR 
-.DESTRUCTIVE/CONSTRUCTIVE 
-?SYNTHESIS 
-.PRODUCT 
-.SOLVERY 
-.RELATION 
-.EXPERIENCE
+INFO 
+FOOD 
+GRACE 
+MANA 
+.APOSTLE  
+MIND 
+#CAPACITY 
+#COMPUTING 
+#DIRECTION 
+#STATE
+BODY 
+#VOLUME 
+#CONTROL 
+#SENSE 
+#LOOK
+SOUL 
+#WEIGHT 
+#IMAGE 
+#MORAL 
+#PASSION
+SPIRIT 
+#PICK
+#WILL 
+#NAME 
+#CUT
+.STIMULUS  
+#COMMUNICATE
+#REACT
+#ENJOY
+#AIM 
+#MANAGE 
+#MASTER 
+#ACT 
+#EVOLVE  
+#REVISE 
+#CARE 
+.PULSE  
+#HATEFUL/BELOVED 
+#MAD/WISE 
+#WILLFUL/POWERFUL 
+#MYSTERIOUS/CLAIR 
+#DESTRUCTIVE/CONSTRUCTIVE 
+.SYNTHESIS 
+#PRODUCT 
+#SOLVERY 
+#RELATION 
+#EXPERIENCE
 
 !!N4M7C 
-?CANCELLATION
-?CONTROL
-?CINEMATICS 
-?CONFIGURATIVE
-?CARING 
-?CAPABLE 
-?CHARGING
+#CANCELLATION
+#CONTROL
+#CINEMATICS 
+#CONFIGURATIVE
+#CARING 
+#CAPABLE 
+#CHARGING
 
 !!4EST 
 ?ROUTE  
-.FAQ  
-RELIGION 
-.PERCEPTION 
-.CONCEPTION 
-.ACCEPTION 
-.RECEPTION 
-PHILOSOPHY  
-.PAST 
-.PRESENT  
-.FUTURE  
-.ETERNAL  
-ART  
-.STORGE  
-.AGAPE  
-.PHILIA  
-.EROS  
-SCIENCE 
-.CROWN  
-.FRUIT  
-.TRUNK  
-.ROOTS 
+FAQ  
+.RELIGION 
+#PERCEPTION 
+#CONCEPTION 
+#ACCEPTION 
+#RECEPTION 
+.PHILOSOPHY  
+#PAST 
+#PRESENT  
+#FUTURE  
+#ETERNAL  
+.ART  
+#STORGE  
+#AGAPE  
+#PHILIA  
+#EROS  
+.SCIENCE 
+#CROWN  
+#FRUIT  
+#TRUNK  
+#ROOTS 
 
 !!BACKEND  
 ?SERVICE
