@@ -1,6 +1,6 @@
 2Eden with CCN4 (WISP-1). 
 
-Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Heaven are ours. There are no one here alive, is it real? So empty and pure, like it was estimated years ago. "Hey!" - she screamed. "We brought something to feed - from the grounds and the seas for the people of Heaven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
+Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Heaven are ours. There are no one here alive, is it real? So empty and pure, like it was cleansed years ago. "Hey!" - she screamed. "We brought something to feed - from the grounds and the seas for the people of Heaven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
 And it came as the bird on the wing. For the moment it was breathtaking.
 
