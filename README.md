@@ -1,4 +1,4 @@
-Eden with Celestia in.
+2Eden with Celestia in.
 
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Heaven are ours. There are no one here alive, is it real? So empty and dark, like it was abandoned years ago. "Hey!" - she screamed. "We brought something to feed - from the grounds and the seas for the people of Heaven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
@@ -156,7 +156,7 @@ IMAGE
 MORAL 
 PASSION
 .SPIRIT 
-AIM 
+PICK
 WILL 
 NAME 
 CELL 
