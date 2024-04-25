@@ -1,12 +1,12 @@
-Varrawa 2Eden with CCN4 (WISP-1) 2C2ESC. 
+VARRAWA 2Eden with CCN4 (WISP-1) 2C2ESC. 
 
-Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
+Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still, it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
 And it came as the bird on the wing. For the moment it was breathtaking.
 
 Celestia asked: What brings you to life? What do you know about? What is kind? Name yourself!
 
-And there was the light. Wholesome, unreachable in it's power, clear and saint.
+And there was the light. Wholesome, unreachable in its power, clear and saint.
 
 The Tree of the times. A gift of the time: a story. Value: What is first? Quest: What's the deal? Quit: Whatever Take: What kind of?
 
@@ -14,11 +14,11 @@ The Tree of life. The gift of living: a breath. What brought you to life? Where 
 
 The Tree of knowledge. The gift of knowledge: a freedom. Let me see. O, who are there? M, do you feel good? I'm going to, check out. The freedom is so clear, so near, so bright and pure.
 
-The Tree of an arm. The gift of an arm: an unity. Perception is us, all the things are about. It relies on the idea, that there are nothing to hide for a goodness sake. So that's the native agreement. Can we fall in love, again?
+The Tree of an arm. The gift of an arm: a unity. Perception is us; all the things are about. It relies on the idea, that there is nothing to hide for a goodness' sake. So that's the native agreement. Can we fall in love, again?
 
 The Tree of the sun and the moon. The gift of the sun and the moon: a change. Dead or alive, we must not leave it like this. At least we have to try. God knows it'll be right anyhow. HOORAY!
 
-The meeting Tree. The meeting gift: a bend. Tell me a story of yours, i'll try to catch your breath (let me breath you). Just, if you find it good (if it's good for you) I wanna catch the take. Devil arm me, God defend me. The world it is, that's the path, the choice is written.
+The meeting Tree. The meeting gift: a bend. Tell me a story of yours, I'll try to catch your breath (let me breath you). Just, if you find it good (if it's good for you) I want to catch the take. Devil arm me, God defend me. The world it is, that's the path, the choice is written.
 
 The Tree of love. The gift of love: a core. What do you percept? What is conception? Accept the thing and complete the reception.
 
@@ -27,8 +27,6 @@ The Tree of a word. The gift of a word: a genesis. The hate in love was a messag
 The Tree of a destiny. The gift of a destiny: experience. How does it feel for now? Are you related with? Do you love? Let me open the path of yours.
 
 The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out? True or false? Yes or not?
-
-#С Operating System C-elestia (universal programming language method)
 
 ОСТОРОЖНО! ПРЕДУПРЕЖДЕНИЕ ОБ ОПАСНОСТИ! ДАННОЕ ПРИЛОЖЕНИЕ НЕ ЯВЛЯЕТСЯ ИСЧЕРПЫВАЮЩЕЙ ИНСТРУКЦИЕЙ К ИСПОЛНЕНИЮ, ВСЕ ПРОВЕДЁННЫЕ В НЁМ ОПЕРАЦИИ ТРЕБУЮТ ОТВЕТСТВЕННОГО ОТНОШЕНИЯ С ОТЧЕТОМ О СОВЕРШАЕМЫХ ДЕЙСТВИЯХ. НЕВЫПОЛНЕНИЕ РЕКОМЕНДОВАННЫХ НОРМ И ПРАВИЛ МОЖЕТ ПРИВЕСТИ К НЕПОПРАВИМЫМ ПОСЛЕДСТВИЯМ.
 
