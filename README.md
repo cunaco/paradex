@@ -1,4 +1,4 @@
-VARRAWA 2Eden with CCN4 (WISP-1) 2C2ESC. 
+VARRAWA 2Eden CCN4 (WISP-1) 2C2ESC CODEX
 
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still, it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
@@ -34,11 +34,11 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 # c for cancellation - обеспечивает выход из порочного круга автоматического делания
 
-. к зрелому возрасту у человека уже сформировано мировоззрение, наработав привычки и стереотипы для взаимодействия с окружающим миром и внутренней рефлексии - мышление костенеет и становится стереотипным. Все это приводит к убеднению активности - проще действовать так, как уже привычно. Это сильно мешает личностному росту, получению качественно нового опыта и делает человека ограниченным и подчинённым обстоятельствам. В масштабе общества это сильно тормозит прогресс, люди работают не на жизнь, а на ее подделку под собственную (в лучшем случае), а иногда и чужую, травмирующую, память и убеждения. Стоит отметить, что готовые знания зачастую более эффективны и полноценны, чем индивидуальное исследование, однако практика показывает, что личный опыт воспринимается и усваивается человеком лучше, а также имеет большее влияние на состояние.
+. к зрелому возрасту у человека уже сформировано мировоззрение, наработав привычки и стереотипы для взаимодействия с окружающим миром и внутренней рефлексии - мышление костенеет и становится стереотипным. Все это приводит к обеднению активности - проще действовать так, как уже привычно. Это сильно мешает личностному росту, получению качественно нового опыта и делает человека ограниченным и подчинённым обстоятельствам. В масштабе общества это сильно тормозит прогресс, люди работают не на жизнь, а на ее подделку под собственную (в лучшем случае), а иногда и чужую, травмирующую, память и убеждения. Стоит отметить, что готовые знания зачастую более эффективны и полноценны, чем индивидуальное исследование, однако практика показывает, что личный опыт воспринимается и усваивается человеком лучше, а также имеет большее влияние на состояние.
 
 # c for control - обеспечивает управление собственной жизнью
 
-. выходя за пределы привычного жизненного маршрута мы, как правило, не имеем возможности творчески преобразовывать свою жизнь - мы просто передвигаемся с одного места на другое зачастую вне всякого смысла. Наша программа позволит преодолевать эту механику и предлагает такие решения, которые сделают жизнь свободной.
+. выходя за пределы привычного жизненного маршрута, мы, как правило, не имеем возможности творчески преобразовывать свою жизнь - мы просто передвигаемся с одного места на другое зачастую вне всякого смысла. Наша программа позволит преодолевать эту механику и предлагает такие решения, которые сделают жизнь свободной.
 
 # c for cinematics - обеспечивает последовательное движение, связанное по смыслу
 
@@ -46,11 +46,11 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 # c for configurative - обеспечивает тонкую настройку собственного внутреннего мира в мире внешнем
 
-. жизнь для художника это полотно, полное его личных идей и смыслов. И порой для того, чтобы сделать нужный мазок, нужно справиться с той или иной задачей неординарно, ибо так требуют сложившиеся условия. Нам необходимо меняться - с помощью нашего приложения этот опыт станет возможным.
+. жизнь для художника — это полотно, полное его личных идей и смыслов. И порой для того, чтобы сделать нужный мазок, нужно справиться с той или иной задачей неординарно, ибо так требуют сложившиеся условия. Нам необходимо меняться - с помощью нашего приложения этот опыт станет возможным.
 
 # c for care - с заботой о пользователе
 
-. ваши данные это продукт вашей частной жизни и мы делаем все для того, чтобы защитить вас от посягательств агрессивной средой и делаем ваш опыт максимально комфортным и защищенным.
+. ваши данные — это продукт вашей частной жизни, и мы делаем все для того, чтобы защитить вас от посягательств агрессивной средой и делаем ваш опыт максимально комфортным и защищенным.
 
 # c for capable - общедоступный
 
@@ -59,7 +59,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 # c for cheer - заряжает данными даже самое непростое существование
 
 . жизненный путь человека может быть одним сплошным промахом - в итоге люди попадают в больницы или рабство. мы предлагаем выход из самых запутанных случаев и обещаем вам сил.
-  
+  
 
 Миссия
 
@@ -75,7 +75,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 ! Альтернативная реальность (дополнение сверх "raw" - сырого, единого с природой мироощущения) 
 ! Web3 (ориентированный на индивидуального пользователя оборот информации в сетевых или локальных базах данных)
 ! Homo Fidus (человек и среда - то, что в итоге образует повседневность)
-  
+  
 
 ? Технологии
 
@@ -86,115 +86,110 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 ? Словарь
 
-= NAME 
+= NAME 
 ! = CLASS
-!! = ATRIBUTE  
-? = ELEMENT  
-. = DATA 
-# = DESCRIPTION
+!! = ATRIBUTE  
+? = ELEMENT  
+. = DATA 
+# = SCRIPT
 
 ? Данные
 
-! ENGINE 
+! ENGINE 
 
-CELEST1A 
-! HIT 
-? MEET 
+!! CELEST1A 
+? HIT 
 . MIND 
-!! CAPACITY 
-!! COMPUTING 
-!! DIRECTION 
-!! REFLECTION
+# CAPACITY 
+# COMPUTING 
+# DIRECTION 
+# REFLECTION
 . BODY 
-!! STRENGHT
-!! AGILITY
-!! SENSE 
-!! APPEARENCE
+# STRENGHT
+# AGILITY
+# SENSE 
+# APPEARENCE
 . SOUL 
-!! WEIGHT 
-!! IMAGE 
-!! MORAL 
-!! PASSION
+# WEIGHT 
+# IMAGE 
+# MORAL 
+# PASSION
 . WILL
-!! PICK
-!! GO 
-!! SPACE
-!! CUT 
-. C: What do you have? 
-. 2B: What's the matter? What's the point?
-. G: What are you going to do? 
-? OPERATION  
-. TOOLS:  
-? 1 (+) T Y /\ 0 (-) F N  
-!! ABSCENCE/OBSCENCE 
-!! POSITIVE/NEGATIVE  
-!! TRUE/FALSE
-!! YES/NO 
+# PICK
+# GO 
+# SPACE
+# CUT 
+? OPERATION  
+. TOOLS:  
+# 1 (+) T Y /\ 0 (-) F N  
+# ABSCENCE/OBSCENCE 
+# POSITIVE/NEGATIVE  
+# TRUE/FALSE
+# YES/NO 
 ? EXPERIENCE
 . URL
 . IRL
- 
 
-C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO B GEM)  
+C2BG (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO B GEM)  
 . FEED
-!! INFO 
-!! FOOD 
-!! GRACE 
-!! MANA 
+# INFO 
+# FOOD 
+# GRACE 
+# MANA 
 . STIMULUS
-!! COMMUNICATE
-!! REACT
-!! ENJOY
-!! AIM 
-!! MANAGE 
-!! MASTER 
-!! ACT 
-!! EVOLVE  
-!! REVISE 
-!! CARE 
-. PULSE  
-!! HATEFUL/BELOVED 
-!! MAD/WISE 
-!! WILLFUL/POWERFUL 
-!! MYSTERIOUS/CLAIR 
-!! DESTRUCTIVE/CONSTRUCTIVE 
-. SYNTHESIS 
-!! PRODUCT 
-!! SOLVERY 
-!! RELATION 
-!! EXPERIENCE
+# COMMUNICATE
+# REACT
+# ENJOY
+# AIM 
+# MANAGE 
+# MASTER 
+# ACT 
+# EVOLVE  
+# REVISE 
+# CARE 
+. PULSE  
+# HATEFUL/BELOVED 
+# MAD/WISE 
+# WILLFUL/POWERFUL 
+# MYSTERIOUS/CLAIR 
+# DESTRUCTIVE/CONSTRUCTIVE 
+. SYNTHESIS 
+# PRODUCT 
+# SOLVERY 
+# RELATION 
+# EXPERIENCE
 
-N4M7C   
-. RELIGION 
-!! PERCEPTION 
-!! CONCEPTION 
-!! ACCEPTION 
-!! RECEPTION 
-. PHILOSOPHY  
-!! PAST 
-!! PRESENT  
-!! FUTURE  
-!! ETERNAL  
-. ART  
-!! STORGE  
-!! AGAPE  
-!! PHILIA  
-!! EROS  
-. SCIENCE 
-!! CROWN  
-!! FRUIT  
-!! TRUNK  
-!! ROOTS 
+!! N4M7C   
+. RELIGION 
+# PERCEPTION 
+# CONCEPTION 
+# ACCEPTION 
+# RECEPTION 
+. PHILOSOPHY  
+# PAST 
+# PRESENT  
+# FUTURE  
+# ETERNAL  
+. ART  
+# STORGE  
+# AGAPE  
+# PHILIA  
+# EROS  
+. SCIENCE 
+# CROWN  
+# FRUIT  
+# TRUNK  
+# ROOTS 
 
-4EST
-? ROUTE  
-. FAQ 
-!! CANCELLATION
-!! CONTROL
-!! CINEMATICS 
-!! CONFIGURATIVE
-!! CARING 
-!! CAPABLE 
-!! CHEERING
+!! 4EST
+? ROUTE 
+# CANCELLATION
+# CONTROL
+# CINEMATICS 
+# CONFIGURATIVE
+# CARING 
+# CAPABLE 
+# CHEERING
+
 
 "Свет светит всем: и злодеям, и жертвам". "Интересно, существовал ли когда-либо человек от А до Я, прожив полную жизнь от первого и до последнего вздоха?"
