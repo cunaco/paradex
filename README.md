@@ -1,4 +1,4 @@
-2Eden with CCN4 (WISP-1). 
+Varrawa 2Eden with CCN4 (WISP-1) 2C2ESC. 
 
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
