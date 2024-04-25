@@ -1,0 +1,4 @@
+#STORGE  
+#AGAPE  
+#PHILIA  
+#EROS  
