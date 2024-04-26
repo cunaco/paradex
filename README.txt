@@ -88,10 +88,10 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 = NAME 
 ! = CLASS
-!! = ATRIBUTE  
+!! = SCRIPT 
 ? = ELEMENT  
 . = DATA 
-# = SCRIPT
+# = ATRIBUTE
 
 ? Данные
 
