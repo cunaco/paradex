@@ -7,7 +7,28 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
 
 # Загрузка данных и предобработка
-# Здесь мы загружаем данные из CELEST1A, C2GB и N4M7C и преобразуем их в формат, пригодный для обучения нейросети
+# Пример кода для загрузки и предобработки данных из CELEST1A
+celest1a_data = {
+    'mind': ['What brings you to life?', 'What do you know about?', 'What is kind?', 'Name yourself!'],
+    'body': ['Where it belongs to?', 'When does it takes?', 'Why do you propose such a thing?'],
+    'soul': ['Do you love?', 'Can we fall in love, again?', 'Let me open the path of yours.']
+}
+
+# Преобразование текста в числовой формат с помощью токенизатора
+tokenizer_celest1a = Tokenizer()
+tokenizer_celest1a.fit_on_texts(celest1a_data.values())
+sequences_celest1a = tokenizer_celest1a.texts_to_sequences(celestial_data.values())
+
+# Добавление дополнительных параметров CELEST1A и преобразование в числовой формат
+parameters_celest1a = {
+    'strength': [10, 8, 6],
+    'agility': [5, 7, 9],
+    'sense': [3, 5, 8]
+}
+
+# Преобразование параметров в числовой формат
+parameters_celest1a_numeric = np.array([list(value) for value in parameters_celest1a.values()])
+
 
 # Определение модели нейросети
 model = Sequential()
