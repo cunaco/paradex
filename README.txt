@@ -1,5 +1,7 @@
 VARRAWA 2Eden CCN4 (WISP-1) 2C2ESC cellural CODEX
 
+"Плодитесь и размножайтесь"
+
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still, it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
 And it came as the bird on the wing. For the moment it was breathtaking.
@@ -32,7 +34,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 . Введение
 
-# c for cancellation - обеспечивает выход из порочного круга автоматического делания
+# c for calculating - обеспечивает выход из порочного круга автоматического делания
 
 . к зрелому возрасту у человека уже сформировано мировоззрение, наработав привычки и стереотипы для взаимодействия с окружающим миром и внутренней рефлексии - мышление костенеет и становится стереотипным. Все это приводит к обеднению активности - проще действовать так, как уже привычно. Это сильно мешает личностному росту, получению качественно нового опыта и делает человека ограниченным и подчинённым обстоятельствам. В масштабе общества это сильно тормозит прогресс, люди работают не на жизнь, а на ее подделку под собственную (в лучшем случае), а иногда и чужую, травмирующую, память и убеждения. Стоит отметить, что готовые знания зачастую более эффективны и полноценны, чем индивидуальное исследование, однако практика показывает, что личный опыт воспринимается и усваивается человеком лучше, а также имеет большее влияние на состояние.
 
@@ -54,7 +56,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 # c for capable - общедоступный
 
-. за наше приложение вам не придется платить денег или изучать сложные для понимания вещи, его устройство подчинено принципу всеобщего естественного блага - оно работает на каждого и для всех.
+. наше приложение имеет низкий порог вхождения и доступно каждому, за наше приложение вам не придется платить денег или изучать сложные для понимания вещи, его устройство подчинено принципу всеобщего естественного блага - оно работает на каждого и для всех.
 
 # c for cheer - заряжает данными даже самое непростое существование
 
@@ -87,7 +89,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 ? Словарь
 
 = NAME 
-! = CLASS
+! = PART
 !! = SCRIPT 
 ? = ELEMENT  
 . = DATA 
@@ -134,10 +136,10 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 . RELIGION 
 # PERCEPTION 
 # CONCEPTION 
-# ACCEPTION 
-# RECEPTION 
+# ACCEPTANCE
+# RECURRENCE 
 . PHILOSOPHY  
-# TOPICALLY
+# TOPICAL
 # TERMINAL 
 # RATING
 # COMPLEX  
@@ -152,7 +154,17 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 # TRUNK  
 # ROOTS 
 
-N4M7C
+!! N4M7C
+? ROUTE 
+# CANCELLATION
+# CONTROL
+# CINEMATICS 
+# CONFIGURATIVE
+# CARING 
+# CAPABLE 
+# CHEERING
+
+R4ST
 . FEED
 # INFO 
 # FOOD 
@@ -180,16 +192,5 @@ N4M7C
 # SOLVERY 
 # RELATION 
 # EXPERIENCE
-
-!! R4ST
-? ROUTE 
-# CANCELLATION
-# CONTROL
-# CINEMATICS 
-# CONFIGURATIVE
-# CARING 
-# CAPABLE 
-# CHEERING
-
 
 "Свет светит всем: и злодеям, и жертвам". "Интересно, существовал ли когда-либо человек от А до Я, прожив полную жизнь от первого и до последнего вздоха?"
