@@ -160,9 +160,9 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 # CONTROL
 # CINEMATICS 
 # CONFIGURATIVE
-# CARING 
+# CARE
 # CAPABLE 
-# CHEERING
+# CHEER
 
 R4ST
 . FEED
