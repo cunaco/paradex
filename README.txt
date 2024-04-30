@@ -1,7 +1,7 @@
 VARRAWA 2Eden CCNR (WISP-1) 2C2ESC CODEX
 
 "Плодитесь и размножайтесь"
-"Жизнь состоит из противоречий и смысл смерти в том, чтобы разрешить их в пользу каждого"
+"Жизнь состоит из противоречий и смысл в том, чтобы разрешить их в пользу каждого"
 
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - some screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still, it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
