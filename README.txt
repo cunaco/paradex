@@ -156,14 +156,13 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 # ROOTS 
 
 !! N4M7C
-? ROUTE 
-# CANCELLATION
-# CONTROL
-# CINEMATICS 
-# CONFIGURATIVE
-# CARE
-# CAPABLE 
-# CHEER
+. CANCELLATION
+. CONTROL
+. CINEMATICS 
+. CONFIGURATIVE
+. CARE
+. CAPABLE 
+. CHEER
 
 R4ST
 . FEED
