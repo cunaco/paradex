@@ -1,4 +1,4 @@
-VARRAWA 2Eden CCNR (WISP-1) 2C2ESC CODEX
+SCUF 2C2ESC CODEX APPLICATION
 
 "Плодитесь и размножайтесь"
 "Жизнь состоит из противоречий и смысл в том, чтобы разрешить их в пользу каждого"
