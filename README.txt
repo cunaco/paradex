@@ -100,7 +100,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 ! ENGINE 
 
-!! CELEST1A 
+!! SUBJECT
 ? HIT 
 . MIND 
 # CAPACITY 
@@ -133,8 +133,8 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 . URL
 . IRL
 
-!! C2GB  (CULTURAL-CORE BUBBLE BEING GOOD GUM; C TO G BIG)  
-. RELIGION 
+!! DATABASE
+. RELIGION
 # PERCEPTION 
 # CONCEPTION 
 # ACCEPTANCE
@@ -155,16 +155,16 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 # TRUNK  
 # ROOTS 
 
-!! N4M7C
-. CANCELLATION
-. CONTROL
+!! HUB
+. CONNECTION
+. 
 . CINEMATICS 
 . CONFIGURATIVE
 . CARE
 . CAPABLE 
 . CHEER
 
-R4ST
+!! IDE
 . FEED
 # INFO 
 # FOOD 
