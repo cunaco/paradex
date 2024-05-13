@@ -1,4 +1,4 @@
-SCUF 2C2ESC CODEX APPLICATION
+SCUF 2C2ESC PARADEX APPLICATION
 
 "Плодитесь и размножайтесь"
 "Жизнь состоит из противоречий и смысл в том, чтобы разрешить их в пользу каждого"
