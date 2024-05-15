@@ -90,7 +90,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 ! Условные обозначения
 
 ! = PART
-!! = SCRIPT 
+!! = TITLE
 ? = ELEMENT  
 . = DATA 
 * = ATRIBUTE
@@ -144,7 +144,7 @@ F FRUIT
 F TRUNK  
 F ROOTS 
 
-? OPERATION
+? SCRIPT
 F CONNECTION
 F CONTROLLING
 F CINEMATICS 
