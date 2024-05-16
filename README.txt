@@ -98,7 +98,8 @@ F = FUNCTION
 
 ! Маршрут
 
-!! ENGINE 
+!! HUMAN
+\/
 
 ? SCRIPT
 F CONNECTION
@@ -130,6 +131,11 @@ F PICK
 F GO 
 F SPACE
 F EARN
+
+\/
+LEFT ARM
+RIGHT ARM
+/\
 
 ? DATABASE
 * RELIGION
@@ -181,6 +187,9 @@ F PRODUCT
 F SOLVERY 
 F RELATION 
 F EXPERIENCE
+
+/\
+!! FOREST
 
 "Свет светит всем: и злодеям, и жертвам". "Интересно, существовал ли когда-либо человек от А до Я, прожив полную жизнь от первого и до последнего вздоха?"
 
