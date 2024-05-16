@@ -96,7 +96,7 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 * = ATRIBUTE
 F = FUNCTION 
 
-! Словарь
+! Маршрут
 
 !! ENGINE 
 
@@ -183,3 +183,6 @@ F RELATION
 F EXPERIENCE
 
 "Свет светит всем: и злодеям, и жертвам". "Интересно, существовал ли когда-либо человек от А до Я, прожив полную жизнь от первого и до последнего вздоха?"
+
+! Лес
+
