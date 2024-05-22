@@ -1,8 +1,5 @@
 SCUF 2C2ESC PARADEX APPLICATION
 
-"Плодитесь и размножайтесь"
-"Жизнь состоит из противоречий и смысл в том, чтобы разрешить их в пользу каждого"
-
 Oh, that was nice! The goodness of living brings me so high to consider it full. (After a while). So here we are - the Gates of Haven Pier are ours. There are no one here alive, isn't it? So empty and pure. "Hey!" - some screamed. "We brought something to eat - from the grounds and the seas for the people of Haven!". Still, it was the same. "Ya-hoo?". There was no answer, so I tried to concern the mind with all the understanding and it came to me in words - "What do you have?" - the answer was. "What's the matter?" - the answer was. "What's the point?" - the answer was. "What kind of?" - the answer was.
 
 And it came as the bird on the wing. For the moment it was breathtaking.
@@ -91,103 +88,98 @@ The Tree of good and evil. The gift: a choice. Is it or ain't? Are you in or out
 
 ! = PART
 !! = TITLE
-? = ELEMENT  
-. = DATA 
+? = ELEMENT
+. = DATA
 , = ATRIBUTE
-F = FUNCTION 
+F = FUNCTION
 
 ! ROUTE
 
 !! HUMAN
 
-#LEFT
-
 ? SCRIPT
-F [[CONNECTION]]
-F [[CONTROL]]
-F [[CINEMATICS]] 
-F [[CONFIGURATON]]
-F [[CARE]]
-F [[CAPABILITY]]
-F [[CORE]]
+F CONNECTION
+F CONTROL
+F CINEMATICS
+F CONFIGURATON
+F CARE
+F CAPABILITY
+F CORE
 
-? SUBJECT 
-, [[MIND]] 
-F CAPACITY 
-F COMPUTING 
-F DIRECTION 
+? SUBJECT
+, MIND
+F CAPACITY
+F COMPUTING
+F DIRECTION
 F REFLECTION
-, [[BODY]] 
+, BODY
 F STRENGHT
 F AGILITY
-F SENSE 
+F SENSE
 F APPEARENCE
-, [[SOUL]] 
-F WEIGHT 
-F IMAGE 
-F MORAL 
-F [[PASSION]]
-, [[WILL]]
+, Soul
+F WEIGHT
+F IMAGE
+F MORAL
+F Passion
+, WILL
 F PICK
-F GO 
+F GO
 F SPACE
 F EARN
 
-#RIGHT
-
-? [[DATABASE]]
+? DATABASE
 , RELIGION
-F PERCEPTION 
-F CONCEPTION 
+F PERCEPTION
+F CONCEPTION
 F ACCEPTANCE
-F RECURRENCE 
-, PHILOSOPHY  
+F RECURRENCE
+, PHILOSOPHY
 F TOPIC
 F TEMPERATURE
 F RATING
-F COMPLEX  
-, ART  
+F COMPLEX
+, ART
 F PAST
-F PRESENT  
-F FUTURE  
+F PRESENT
+F FUTURE
 F ETERNAL
-, SCIENCE 
-F CROWN  
-F FRUIT  
-F TRUNK  
-F ROOTS 
+, SCIENCE
+F CROWN
+F FRUIT
+F TRUNK
+F ROOTS
 
 ? OBJECT
-, FEED
-F INFO 
-F FOOD 
-F MANA 
+, Feed
+F INFO
+F FOOD
+F MANA
 F GRACE
 , STIMUL
 F COMMUNICATE
 F REACT
 F ENJOY
-F AIM 
-F MANAGE 
-F MASTER 
-F ACT 
-F EVOLVE  
-F REVISE 
-F CARE 
-, PULSE  
-F HATEFUL/BELOVED 
-F MAD/WISE 
-F WILLFUL/POWERFUL 
-F MYSTERIOUS/CLAIR 
-F DESTRUCTIVE/CONSTRUCTIVE 
-, SYNTHESIS 
-F PRODUCT 
-F SOLVERY 
-F RELATION 
+F AIM
+F MANAGE
+F MASTER
+F ACT
+F EVOLVE
+F REVISE
+F CARE
+, PULSE
+F HATEFUL/BELOVED
+F MAD/WISE
+F WILLFUL/POWERFUL
+F MYSTERIOUS/CLAIR
+F DESTRUCTIVE/CONSTRUCTIVE
+, SYNTHESIS
+F PRODUCT
+F SOLVERY
+F RELATION
 F EXPERIENCE
 
+?STATUS
+F TRUE/FALSE
 
-"Свет светит всем: и злодеям, и жертвам". "Интересно, существовал ли когда-либо человек от А до Я, прожив полную жизнь от первого и до последнего вздоха?"
-
-! Лес
 
