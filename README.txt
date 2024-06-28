@@ -39,9 +39,9 @@
 ! = PART 
 !! = TITLE 
 ? = ELEMENT 
+F = FUNCTION 
 , = ATRIBUTE 
 . = DATA 
-F = FUNCTION 
 
 ! ROUTE 
 
