@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+"God cannot change the people we are, but he brings pace to people who died in their mind." - Someone said.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Проект: PARADEX - Личное пространство самопознания и планирования
 
-## Available Scripts
+Описание: PARADEX - это приложение, предназначенное для анализа и планирования на основе личных записей и мыслей пользователя. Используя классификационную систему N4M7C, основанную на уникальном методе работы с данными, приложение помогает пользователю углубить понимание себя и окружающего мира, создавая персонализированные рекомендации и планы.
 
-In the project directory, you can run:
+Технологии:
+Фронтенд:
+React.js: Основной фреймворк для разработки интерфейса.
+Axios: Для взаимодействия с API.
+React Router: Для маршрутизации страниц.
+HTML/CSS: Верстка и стилизация компонентов.
+Бэкенд:
+Python (Flask): Основной фреймворк для создания серверной части.
+Flask-SQLAlchemy: ORM для работы с базой данных.
+PostgreSQL: База данных для хранения информации о пользователях и их записях.
+Flask-Migrate: Управление миграциями базы данных.
+Инфраструктура:
+GitHub: Репозиторий для контроля версий и совместной работы.
+Docker (опционально): Для контейнеризации приложения.
 
-### `npm start`
+Пользовательский опыт (UX):
+Приветственное окно:
+Фраза дня: В начале приложения отображается приветственное окно с фразой дня, основанной на анализе личных записей пользователя.
+Поле для входа: Под фразой дня располагается поле для ввода логина и пароля. Также есть возможность зарегистрироваться, если пользователь еще не создал аккаунт.
+Главный экран после входа:
+Основной интерфейс: После входа пользователь попадает на главный экран, который состоит из двух вертикально разделенных окон.
+Левая часть экрана:
+Список личных записей: Здесь отображаются все личные записи пользователя, сгруппированные по категориям и классифицированные по системе N4M7C.
+Карта мыслей: Пользователь может переключаться на отображение карты мыслей, которая показывает взаимосвязи между различными идеями и записями.
+Правая часть экрана:
+Статистика: Отображение статистики по категориям.
+Задать вопрос: Поле для ввода вопросов, которые пользователь хочет задать системе.
+Планировщик: ИИ-планировщик, который анализирует записи пользователя и предлагает действия или мысли для дальнейшего изучения.
+Поделиться: Возможность поделиться своими мыслями или идеями с другими пользователями или экспортировать их для личного использования.
+Дополнительные элементы интерфейса:
+История взаимодействия: Просмотр истории вопросов и ответов, предложений планировщика и других действий.
+Настройки персонализации: Пользователь может настроить интерфейс под себя, выбрать интересующие темы и категории записей.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Структура проекта:
+paradex/
+│
+├── backend/
+│   ├── app.py                # Основной файл приложения Flask
+│   ├── config.py             # Конфигурационный файл приложения
+│   ├── models.py             # Модели базы данных
+│   ├── routes.py             # Эндпоинты API
+│   ├── requirements.txt      # Зависимости Python
+│   ├── migrations/           # Миграции базы данных
+│   └── tests/                # Тесты для бэкенда
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/       # Реактивные компоненты
+│   │   │   ├── Home.js       # Главная страница
+│   │   │   ├── Login.js      # Страница входа
+│   │   │   ├── Register.js   # Страница регистрации
+│   │   │   └── ...           # Другие компоненты
+│   │   ├── App.js            # Основной файл React
+│   │   ├── index.js          # Точка входа в React-приложение
+│   │   ├── App.css           # Стили приложения
+│   │   └── ...               # Другие файлы
+│   ├── package.json          # Зависимости JavaScript
+│   └── ...                   # Другие файлы проекта
+│
+├── docker-compose.yml         # Опционально: Docker-композ для разработки и продакшн
+├── .env                       # Файл с переменными окружения
+├── README.md                  # Описание проекта
+└── ...                        # Другие файлы и папки проекта
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Функциональность:
+Аутентификация:
+Регистрация и вход пользователя.
+Защита данных пользователя с использованием хеширования паролей.
+Работа с записями:
+Создание и редактирование личных записей, классифицированных по системе N4M7C.
+Визуализация записей в виде карты мыслей.
+ИИ-планировщик:
+Анализ данных пользователя и создание персонализированных рекомендаций.
+Предложения по дальнейшему изучению тем на основе записей.
+Статистика и история:
+Просмотр статистики по категориям записей.
+История взаимодействий и выполненных действий.
+API и взаимодействие:
+/api/register (POST): Регистрация нового пользователя.
+/api/login (POST): Вход пользователя.
+/api/records (GET/POST): Получение всех записей или создание новой записи.
+/api/planner (GET): Получение рекомендаций от ИИ-планировщика.
+Взаимодействие фронтенда и бэкенда:
+Фронтенд:
+Языки и фреймворки: JavaScript (React.js), HTML/CSS.
+Компоненты: Вход и регистрация, отображение данных, форма ввода, интерактивные элементы.
+Бэкенд:
+Языки и фреймворки: Python (Flask).
+Базы данных: Литературные и философские произведения, медиа, пользовательские записи.
+Логика и взаимодействие: Семантический анализ, анализ взаимосвязей, ИИ-планировщик.
+Финальная модель проекта:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Приложение PARADEX предоставляет пользователю мощный инструмент для анализа и самопознания, интегрируя личные записи и опыт в процесс обучения и принятия решений. В основе приложения лежит система классификации N4M7C, которая связывает личные мысли и жизненные ситуации с философскими и литературными концепциями, поддерживаемыми базами данных. Фронтенд обеспечивает интуитивное и визуально привлекательное взаимодействие, тогда как бэкенд отвечает за хранение данных, их обработку и предоставление релевантных рекомендаций и информации.
