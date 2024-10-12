@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PARADEX - Личное пространство самопознания и планирования</title>
+    <style>
+        /* Стили для страницы */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        section {
+            padding: 60px 0;
+            text-align: center;
+        }
+        #hero {
+            background: #282c34;
+            color: #fff;
+            padding: 100px 0;
+        }
+        #hero .btn {
+            background: #61dafb;
+            padding: 10px 20px;
+            color: #282c34;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        #features ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        #features li {
+            margin: 10px 0;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        input, textarea, button {
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #61dafb;
+            border: none;
+            color: #282c34;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #52c7e3;
+        }
+        footer {
+            background: #282c34;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="container">
+            <h1>PARADEX</h1>
+            <p>Личное пространство самопознания и планирования</p>
+            <a href="#about" class="btn">Узнать больше</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>О приложении</h2>
+            <p>PARADEX - это приложение для анализа, оценки и планирования на основе личных записей и мыслей пользователя. Оно помогает углубить понимание себя и окружающего мира, создавая персонализированные рекомендации и планы, используя уникальную систему классификации N4M7C.</p>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features">
+        <div class="container">
+            <h2>Функциональность</h2>
+            <ul>
+                <li><strong>Записи и карты мыслей:</strong> Создание, редактирование и визуализация мыслей.</li>
+                <li><strong>ИИ-планировщик:</strong> Персонализированные рекомендации и план действий.</li>
+                <li><strong>Статистика и история:</strong> Отслеживание прогресса и активности пользователя.</li>
+                <li><strong>Аутентификация и персонализация:</strong> Настройка интерфейса и защита данных.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Tech Stack Section -->
+    <section id="tech-stack">
+        <div class="container">
+            <h2>Технологии</h2>
+            <p>Фронтенд: React.js, Axios, HTML/CSS<br>Бэкенд: Python (Flask), Flask-SQLAlchemy, PostgreSQL<br>Инфраструктура: GitHub, Docker (опционально)</p>
+        </div>
+    </section>
+
+    <!-- Architecture Section -->
+    <section id="architecture">
+        <div class="container">
+            <h2>Архитектура</h2>
+            <p>Проект PARADEX включает в себя бэкенд на Python (Flask), фронтенд на React.js, а также использует PostgreSQL для хранения данных. Приложение разделено на модули, обеспечивающие функциональность API, работу с базой данных и пользовательский интерфейс.</p>
+        </div>
+    </section>
+
+    <!-- Roadmap Section -->
+    <section id="roadmap">
+        <div class="container">
+            <h2>План разработки</h2>
+            <ol>
+                <li>Настройка окружения и инфраструктуры.</li>
+                <li>Разработка бэкенда и API.</li>
+                <li>Создание пользовательского интерфейса.</li>
+                <li>Интеграция ИИ и тестирование.</li>
+                <li>Деплой и выпуск приложения.</li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Контакты</h2>
+            <p>Свяжитесь с нами для получения дополнительной информации или сотрудничества.</p>
+            <form action="#" method="post">
+                <input type="text" name="name" placeholder="Ваше имя" required>
+                <input type="email" name="email" placeholder="Ваш email" required>
+                <textarea name="message" placeholder="Ваше сообщение" required></textarea>
+                <button type="submit">Отправить</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 PARADEX. Все права защищены.</p>
+    </footer>
+
+    <script>
+        // Обработка формы
+        document.querySelector("form").addEventListener("submit", function(e) {
+            e.preventDefault();
+            alert("Сообщение отправлено!");
+        });
+    </script>
+</body>
+</html>
